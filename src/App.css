@@ -12,3 +12,20 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App-header p {
+  font-size: calc(5px + 2vmin);
+}
+
+.App-header ul {
+  display: inline;
+  padding: 0;
+}
+
+.App-header li {
+  list-style: none;
+}
+
+.App-header a {
+  color: inherit;
+}
